@@ -5,6 +5,26 @@
 I’m passionate about building real-world applications — from smart school automation systems to AI-powered apps.  
 I love exploring modern tech stacks, optimizing performance, and designing user-friendly interfaces.
 
+
+---
+
+### 🧰 Tech Domains & Interests
+
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| 🧠 **AI & ML** | TensorFlow, Keras, PyTorch, Scikit-learn |
+| 👁️ **Computer Vision** | OpenCV, YOLO, MediaPipe |
+| 💬 **NLP** | NLTK, SpaCy, Hugging Face |
+| 🌐 **Full Stack** | Django, Flask, FastAPI, React, Node.js |
+| 📱 **Mobile** | Flutter, Firebase, Kotlin |
+| 📊 **Analytics** | Power BI, Tableau, Pandas, NumPy |
+| ☁️ **DevOps** | Docker, GitHub Actions, Heroku, AWS |
+| 🧩 **Databases** | MySQL, SQLite, MongoDB, Firebase |
+| 🧠 **Other Interests** | Data Science, Cloud AI, IoT, Edge AI |
+
+---
+
+
 ---
 
 ### 💼 About Me
@@ -56,7 +76,50 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 - 🔹 **[Name of App](URL)** — Description 
 
 
+
+
+
+# 👋 Hi, I'm Jayesh Kurungodan  
+
+💻 **AI Engineer | ML Engineer | Computer Vision Specialist | Business Analyst | Full Stack Developer | Software Engineer | Android App Developer**
+
 ---
+
+### 🧠 About Me
+I’m a multidisciplinary tech creator passionate about **AI-driven solutions**, **intelligent automation**, and **smart application design**.  
+From machine learning and computer vision to full-stack and mobile development — I build scalable, innovative, and user-focused systems that bridge research and real-world needs.
+
+
+
+## 📈 GitHub Statistics & Visual Analytics
+
+### 🏆 GitHub Contribution Summary
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight)](https://git.io/streak-stats)
+
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night)
+
+### 🧩 Commit & Repository Insights
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night)
+
+---
+
+### 💬 Developer Metrics (Detailed)
+![Jayesh’s Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight)
+![Repo Overview](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23&theme=tokyonight)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakkarot23&theme=tokyonight&utcOffset=5.5)
+
+---
+
+### ⚡ WakaTime (Coding Time Tracker) *(Optional)*
+
+If you use [WakaTime](https://wakatime.com), you can embed live coding time:
+```markdown
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+
