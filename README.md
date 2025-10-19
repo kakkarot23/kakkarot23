@@ -76,21 +76,6 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 - 🔹 **[Name of App](URL)** — Description 
 
 
-
-
-
-# 👋 Hi, I'm Jayesh Kurungodan  
-
-💻 **AI Engineer | ML Engineer | Computer Vision Specialist | Business Analyst | Full Stack Developer | Software Engineer | Android App Developer**
-
----
-
-### 🧠 About Me
-I’m a multidisciplinary tech creator passionate about **AI-driven solutions**, **intelligent automation**, and **smart application design**.  
-From machine learning and computer vision to full-stack and mobile development — I build scalable, innovative, and user-focused systems that bridge research and real-world needs.
-
-
-
 ## 📈 GitHub Statistics & Visual Analytics
 
 ### 🏆 GitHub Contribution Summary
