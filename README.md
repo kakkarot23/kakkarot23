@@ -8,11 +8,14 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 ---
 
 ### 💼 About Me
-- 🔭 Currently working on: **MyGuardian - Smart School Automation App**
-- 🌱 Learning: **Generative AI, Machine Learning & Computer Vision**
-- 💬 Ask me about: **Flutter, Django, REST APIs, or AI Integration**
-- ⚙️ Tech Interests: Android, AI, Data Science, Embedded Systems
-- 🎯 Goal: Building intelligent, secure, and scalable digital ecosystems
+- 🤖 **Artificial Intelligence & Machine Learning Engineer** – experienced in deep learning, NLP, predictive analytics, and intelligent automation.  
+- 👁️ **Computer Vision Engineer** – expertise in real-time video analytics, facial recognition, object detection (YOLO, OpenCV, TensorFlow).  
+- 📊 **Business Analyst** – strong analytical mindset, data visualization, and decision-making through machine learning and dashboard insights.  
+- 🌐 **Full Stack Developer** – proficient in Python (Django, Flask) and JavaScript frameworks, integrating backend logic with modern UIs.  
+- 📱 **Android & Flutter Developer** – passionate about mobile innovation, building smart education and automation apps.  
+- 💼 **Software Developer** – adept at building modular, scalable applications across cloud and edge platforms.  
+- 🎯 **Goal:** To merge AI, data, and software to drive smarter, safer, and more connected digital ecosystems.
+
 
 ---
 
