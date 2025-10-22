@@ -8,7 +8,7 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 🧩 Tech Domains & Interests
+## 🧠 Tech Domains & Interests
 
 | Category | Tools & Frameworks |
 |-----------|--------------------|
@@ -32,37 +32,37 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+## 📊 **Live GitHub Analytics Dashboard**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight&langs_count=10" height="180em" />
 </p>
 
 ---
 
-## 🔥 **Contribution & Activity Graph**
+## 🔥 **Dynamic Contribution & Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night&bg_color=000000&hide_border=true&line=00e7ff&point=ffffff" />
 </p>
 
 ---
 
-## 🏆 **Contribution Streak**
+## 🏆 **Dynamic Contribution Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 **Developer Metrics & Visual Insights**
+## 📈 **Developer Metrics & Productivity**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakkarot23&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
@@ -79,7 +79,9 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 📈 **WakaTime (Optional - Coding Time Tracker)**
+## 🕓 **WakaTime (Live Coding Tracker)** *(Optional)*
+
+> Shows live time spent coding if you connect your WakaTime profile.
 
 ```markdown
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
