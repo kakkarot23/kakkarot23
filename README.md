@@ -1,38 +1,56 @@
-# 👋 Hi, I'm Jayesh Kurungodan
+<!-- 🌟 GitHub Profile README for Jayesh Kurungodan -->
 
-🚀 **Software Developer | Android & Flutter Developer | AI & Django Enthusiast**  
-💡 Founder @ **SHA TECH**
+# 👋 Hi, I'm **Jayesh Kurungodan**
 
-I’m passionate about building real-world applications — from smart school automation systems to AI-powered apps.  
-I love exploring modern tech stacks, optimizing performance, and designing user-friendly interfaces.
+🚀 **Founder @ [SHA TECH](#)**  
+💻 **AI Engineer | Data Scientist | Computer Vision Engineer | NLP Engineer | ML Engineer | BI Specialist | Marketing Analyst | Full Stack Developer | MERN Developer | Flutter & Android Developer | Cloud & AWS Specialist**
 
 ---
 
-## 🧠 Tech Domains & Interests
+## 💫 About Me
 
-| Category | Tools & Frameworks |
-|-----------|--------------------|
-| 🧠 **AI & ML** | TensorFlow, Keras, PyTorch, Scikit-learn |
-| 👁️ **Computer Vision** | OpenCV, YOLO, MediaPipe |
-| 💬 **NLP** | NLTK, SpaCy, Hugging Face |
-| 🌐 **Full Stack** | Django, Flask, FastAPI, React, Node.js |
-| 📱 **Mobile** | Flutter, Firebase, Kotlin |
-| 📊 **Analytics** | Power BI, Tableau, Pandas, NumPy |
-| ☁️ **DevOps** | Docker, GitHub Actions, Heroku, AWS |
-| 🧩 **Databases** | MySQL, SQLite, MongoDB, Firebase |
-| 🧠 **Other Interests** | Data Science, Cloud AI, IoT, Edge AI |
+I'm a passionate **Software Developer** focused on building smart, scalable, and AI-powered applications.  
+I love combining **AI + Analytics + Development** to create solutions that make systems intelligent and efficient.  
+
+I enjoy exploring **new-age technologies**, automating workflows, and deploying real-world digital ecosystems for smart schools, businesses, and communities.
+
+---
+
+## 🧠 Domains & Expertise
+
+| Domain | Technologies & Tools |
+|--------|----------------------|
+| 🤖 **Artificial Intelligence** | TensorFlow, Keras, PyTorch, Scikit-learn |
+| 🧬 **Data Science & Analytics** | Pandas, NumPy, Power BI, Tableau, Excel, Matplotlib |
+| 👁️ **Computer Vision** | OpenCV, YOLOv8, MediaPipe, Face Recognition, Image Segmentation |
+| 💬 **Natural Language Processing** | NLTK, SpaCy, Hugging Face, Transformers |
+| 🧠 **Machine Learning & Deep Learning** | Regression, Classification, CNNs, RNNs, LSTMs |
+| 🌐 **Full Stack Development** | Django, Flask, FastAPI, Node.js, React, Express, REST APIs |
+| 📱 **Mobile Development** | Flutter, Dart, Firebase, Kotlin, Jetpack Compose |
+| ☁️ **Cloud & DevOps** | AWS, Docker, GitHub Actions, Heroku, CI/CD |
+| 🧩 **Databases** | MySQL, PostgreSQL, SQLite, MongoDB, Firebase |
+| 🧭 **Marketing & BI** | Data Visualization, Predictive Insights, Business Metrics |
+| 🛠️ **Other Interests** | IoT, Edge AI, Cloud Automation, Robotics |
 
 ---
 
 ## 🧰 **Languages & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,html,css,js,cpp,react,django,flask,firebase,mysql,git,github,aws,docker,tensorflow,pytorch,opencv,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,ruby,php,go,swift,js,ts,html,css,dart,react,flutter,django,flask,nodejs,express,mysql,mongodb,postgres,firebase,aws,docker,git,github,linux,figma,tensorflow,pytorch,opencv,fastapi,heroku,powershell&perline=10" />
 </p>
 
 ---
 
-## 📊 **Live GitHub Analytics Dashboard**
+## 🌟 **Tech Career Path Visualization**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer+🤖;Data+Scientist+📊;Computer+Vision+Engineer+👁️;NLP+Engineer+💬;Machine+Learning+Engineer+🧠;Full+Stack+Developer+🌐;MERN+Developer+⚛️;Business+Intelligence+Specialist+📈;Marketing+Analyst+💼;Flutter+%26+Android+Developer+📱;Cloud+%26+AWS+Engineer+☁️" alt="Typing SVG" />
+</p>
+
+---
+
+## 📊 **Dynamic GitHub Analytics Dashboard**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
@@ -41,10 +59,10 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 🔥 **Dynamic Contribution & Activity Graph**
+## 🔥 **Contribution & Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night&bg_color=000000&hide_border=true&line=00e7ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
 </p>
 
 ---
@@ -57,7 +75,7 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 📈 **Developer Metrics & Productivity**
+## 🧩 **Developer Metrics & Insights**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight"/>
@@ -68,20 +86,9 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
-## 💬 **About Me**
+## 🕓 **Live Coding Activity (WakaTime Integration)** *(Optional)*
 
-- 🤖 **AI/ML Engineer** – expertise in deep learning, NLP, and intelligent automation.  
-- 👁️ **Computer Vision Engineer** – YOLO, OpenCV, and real-time video analytics.  
-- 🌐 **Full Stack Developer** – Django, Flask, React, FastAPI.  
-- 📱 **Mobile Developer** – Flutter, Firebase, Kotlin.  
-- 📊 **Data & Analytics** – Power BI, Pandas, Tableau.  
-- 💼 **Goal:** Building scalable, intelligent systems at **SHA TECH** for smarter, safer education and automation ecosystems.
-
----
-
-## 🕓 **WakaTime (Live Coding Tracker)** *(Optional)*
-
-> Shows live time spent coding if you connect your WakaTime profile.
+> Enable your [WakaTime](https://wakatime.com) account to display live coding time.
 
 ```markdown
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
