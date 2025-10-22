@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Jayesh Kurungodan
 
-🚀 **Software Developer | Android & Flutter Developer | AI & Django Enthusiast**
+🚀 **Software Developer | Android & Flutter Developer | AI & Django Enthusiast**  
+💡 Founder @ **SHA TECH**
 
 I’m passionate about building real-world applications — from smart school automation systems to AI-powered apps.  
 I love exploring modern tech stacks, optimizing performance, and designing user-friendly interfaces.
 
-
 ---
 
-### 🧰 Tech Domains & Interests
+## 🧩 Tech Domains & Interests
 
 | Category | Tools & Frameworks |
 |-----------|--------------------|
@@ -24,118 +24,62 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
+## 🧰 **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,html,css,js,cpp,react,django,flask,firebase,mysql,git,github,aws,docker,tensorflow,pytorch,opencv,linux&perline=10" />
+</p>
 
 ---
 
-### 💼 About Me
-- 🤖 **Artificial Intelligence & Machine Learning Engineer** – experienced in deep learning, NLP, predictive analytics, and intelligent automation.  
-- 👁️ **Computer Vision Engineer** – expertise in real-time video analytics, facial recognition, object detection (YOLO, OpenCV, TensorFlow).  
-- 📊 **Business Analyst** – strong analytical mindset, data visualization, and decision-making through machine learning and dashboard insights.  
-- 🌐 **Full Stack Developer** – proficient in Python (Django, Flask) and JavaScript frameworks, integrating backend logic with modern UIs.  
-- 📱 **Android & Flutter Developer** – passionate about mobile innovation, building smart education and automation apps.  
-- 💼 **Software Developer** – adept at building modular, scalable applications across cloud and edge platforms.  
-- 🎯 **Goal:** To merge AI, data, and software to drive smarter, safer, and more connected digital ecosystems.
+## 📊 **GitHub Analytics Dashboard**
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🔥 **Contribution & Activity Graph**
 
-**Languages:**  
-`Python` • `Dart` • `JavaScript` • `C++` • `HTML` • `CSS`
-
-**Frameworks & Tools:**  
-`Flutter` • `Django` • `TensorFlow` • `OpenCV` • `Flask` • `Firebase` • `MySQL`
-
-**AI & Data Science:**  
-`NLP` • `Generative AI` • `Computer Vision` • `Machine Learning`
-
-**Version Control & Deployment:**  
-`Git` • `GitHub` • `Docker` • `Heroku` • `Vercel`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 **Contribution Streak**
 
-![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakkarot23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=About.me&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jayeshsharmilakurungodan@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 🧠 Highlight Projects
+## 🧩 **Developer Metrics & Visual Insights**
 
-- 🔹 **[Name of App](URL)** — Description 
-
-
-## 📈 GitHub Statistics & Visual Analytics
-
-### 🏆 GitHub Contribution Summary
-![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakkarot23&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
 ---
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight)](https://git.io/streak-stats)
+## 💬 **About Me**
+
+- 🤖 **AI/ML Engineer** – expertise in deep learning, NLP, and intelligent automation.  
+- 👁️ **Computer Vision Engineer** – YOLO, OpenCV, and real-time video analytics.  
+- 🌐 **Full Stack Developer** – Django, Flask, React, FastAPI.  
+- 📱 **Mobile Developer** – Flutter, Firebase, Kotlin.  
+- 📊 **Data & Analytics** – Power BI, Pandas, Tableau.  
+- 💼 **Goal:** Building scalable, intelligent systems at **SHA TECH** for smarter, safer education and automation ecosystems.
 
 ---
 
-### 🧩 Commit & Repository Insights
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=tokyo-night)
+## 📈 **WakaTime (Optional - Coding Time Tracker)**
 
----
-
-### 💬 Developer Metrics (Detailed)
-![Jayesh’s Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight)
-![Repo Overview](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23&theme=tokyonight)
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakkarot23&theme=tokyonight&utcOffset=5.5)
-
----
-
-## 🔧 SHATECH – Technology Stack Overview
-
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![Framework](https://img.shields.io/badge/framework-Flutter%20%7C%20Django-blue)](#)
-[![Database](https://img.shields.io/badge/database-MySQL%20%7C%20Firebase-yellow)](#)
-[![AI/ML](https://img.shields.io/badge/AI/ML-TensorFlow%20%7C%20OpenCV-orange)](#)
-
-### 🧠 Technology Distribution (GitHub Style)
-
-![SHATECH Tech Stack](https://quickchart.io/chart?c={
-  type:'pie',
-  data:{
-    labels:['Dart (Flutter)','Python (Django/ML)','HTML/CSS/JS','SQL (MySQL/PostgreSQL)','Firebase/Cloud','Others'],
-    datasets:[{
-      data:[35,30,15,10,5,5],
-      backgroundColor:['#00B4AB','#306998','#E34F26','#1F6FEB','#FFCA28','#9E9E9E']
-    }]
-  },
-  options:{
-    plugins:{
-      legend:{position:'right',labels:{font:{size:12}}},
-      title:{display:true,text:'SHATECH — Language & Technology Distribution',font:{size:16}}
-    }
-  }
-})
-
-
-
-
-
-
-### ⚡ WakaTime (Coding Time Tracker) *(Optional)*
-
-If you use [WakaTime](https://wakatime.com), you can embed live coding time:
 ```markdown
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-
