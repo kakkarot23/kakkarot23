@@ -102,6 +102,37 @@ I love exploring modern tech stacks, optimizing performance, and designing user-
 
 ---
 
+## 🔧 SHATECH – Technology Stack Overview
+
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
+[![Framework](https://img.shields.io/badge/framework-Flutter%20%7C%20Django-blue)](#)
+[![Database](https://img.shields.io/badge/database-MySQL%20%7C%20Firebase-yellow)](#)
+[![AI/ML](https://img.shields.io/badge/AI/ML-TensorFlow%20%7C%20OpenCV-orange)](#)
+
+### 🧠 Technology Distribution (GitHub Style)
+
+![SHATECH Tech Stack](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Dart (Flutter)','Python (Django/ML)','HTML/CSS/JS','SQL (MySQL/PostgreSQL)','Firebase/Cloud','Others'],
+    datasets:[{
+      data:[35,30,15,10,5,5],
+      backgroundColor:['#00B4AB','#306998','#E34F26','#1F6FEB','#FFCA28','#9E9E9E']
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{position:'right',labels:{font:{size:12}}},
+      title:{display:true,text:'SHATECH — Language & Technology Distribution',font:{size:16}}
+    }
+  }
+})
+
+
+
+
+
+
 ### ⚡ WakaTime (Coding Time Tracker) *(Optional)*
 
 If you use [WakaTime](https://wakatime.com), you can embed live coding time:
