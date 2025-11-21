@@ -1,38 +1,37 @@
-<!-- 🌟 GitHub Profile README for Jayesh Kurungodan (Python Focused) -->
+<!-- 🌟 GitHub Profile README for Jayesh Kurungodan -->
 
-# 👋 Hi, I'm **Jayesh Kurungodan**
+# 👋 Hi, I'm **Jayesh Kurungodan**  
+### AI · ML · DL · NN · GenAI · Data Science · Data Analyst · BI · Analytics · Automation · Full Stack & More
 
-🚀 **Founder @ [SHA TECH](#)**  
-🐍 **Python Enthusiast | AI Engineer | Data Scientist | Full Stack Developer | Flutter & Android Developer**
-
----
-
-## 💫 About Me
-
-I’m a passionate **Python Developer** who transforms ideas into intelligent, scalable applications.  
-My expertise spans across **AI**, **Data Science**, **Computer Vision**, **NLP**, and **Smart Automation**.  
-
-I build with purpose — combining analytics, automation, and creativity to craft impactful digital ecosystems.
+🚀 **Founder – SHA TECH**  
+🐍 **AI Engineer | Python Developer | Data Scientist | ML/DL/GenAI Specialist | Full Stack & Flutter Developer**
 
 ---
 
-## 🧠 Domains & Expertise
+## 🌟 **About Me**
 
-| Domain | Technologies & Tools |
-|--------|----------------------|
-| 🤖 **AI & ML** | TensorFlow, Keras, PyTorch, Scikit-learn |
-| 🧬 **Data Science & Analytics** | Pandas, NumPy, Power BI, Tableau, Matplotlib |
-| 👁️ **Computer Vision** | OpenCV, YOLO, MediaPipe |
-| 💬 **Natural Language Processing** | NLTK, SpaCy, Hugging Face |
-| 🌐 **Full Stack Development** | Django, Flask, FastAPI, React |
-| 📱 **Mobile Development** | Flutter, Dart, Firebase, Kotlin |
-| ☁️ **Cloud & DevOps** | AWS, Docker, GitHub Actions |
-| 🧩 **Databases** | MySQL, SQLite, MongoDB, Firebase |
-| 📊 **Business & BI** | Data Insights, Visualization, Predictive Analytics |
+I am a technology-driven creator who builds intelligent solutions powered by **AI, Machine Learning, Deep Learning, Neural Networks, Data Science, Generative AI, Business Intelligence**, and **Smart Automation**.
+
+My work blends cutting-edge research with real-world engineering — making scalable systems for education, enterprises, analytics, automation, and mobile ecosystems.
 
 ---
 
-## 🧰 **Languages & Tools**
+# 🧭 **Domains & Expertise Overview**
+
+| Category | Technologies |
+|---------|--------------|
+| 🤖 AI / ML / DL / NN | TensorFlow · PyTorch · Keras · Scikit-learn · XGBoost |
+| 🧬 Data Science & Analytics | Pandas · NumPy · Statsmodels · SciPy · Power BI · Tableau |
+| 👁️ Computer Vision | OpenCV · YOLO · MediaPipe · Face Recognition |
+| 💬 NLP & GenAI | NLTK · SpaCy · Transformers · Hugging Face · LangChain · RAG |
+| 🌐 Web Development | Django · Flask · FastAPI |
+| 📱 Mobile Development | Flutter · Dart · Kotlin · Firebase |
+| ☁️ Cloud & DevOps | AWS · Docker · GitHub Actions · CI/CD |
+| 🧩 Databases | MySQL · PostgreSQL · SQLite · MongoDB · Firebase |
+
+---
+
+# 🔭 **Tech Stack (Interactive Icons)**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,pytorch,opencv,react,flutter,dart,mysql,sqlite,postgres,mongodb,aws,docker,git,github,linux,vscode&perline=10" />
@@ -40,60 +39,33 @@ I build with purpose — combining analytics, automation, and creativity to craf
 
 ---
 
-## 🌟 **Python-Centric Career Path Visualization**
+# 💡 **Interactive Career Path Typing Banner**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer+🐍;AI+Engineer+🤖;Data+Scientist+📊;Machine+Learning+Engineer+🧠;Computer+Vision+Engineer+👁️;NLP+Engineer+💬;Full+Stack+Developer+🌐;Flutter+%26+Android+Developer+📱;AWS+%26+DevOps+Engineer+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+🤖;Machine+Learning+Engineer+🧠;Deep+Learning+Developer+💡;Generative+AI+Specialist+✨;Data+Scientist+📊;Business+Intelligence+Analyst+📈;Computer+Vision+Engineer+👁️;NLP+Engineer+💬;Full+Stack+Developer+🌐;Flutter+%26+Android+Developer+📱;Cloud+%26+DevOps+Engineer+☁️" />
 </p>
 
 ---
 
-## 📊 **Dynamic GitHub Analytics Dashboard**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakkarot23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Jayesh's+GitHub+Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakkarot23&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=Top+Languages+(Python+Dominates)&card_width=400" height="180em" />
-</p>
-
----
-
-## 📈 **Peak Graph (Dynamic Contribution Heatmap)**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakkarot23&theme=high-contrast&bg_color=0d1117&color=00ffcc&line=00e7ff&point=ffffff&hide_border=true&area=true&area_color=0dff92&custom_title=Peak+Python+Contribution+Graph" />
-</p>
-
----
-
-## 🏆 **Contribution Streak**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkarot23&theme=tokyonight&hide_border=true&ring=00e7ff&fire=ffcc00&currStreakLabel=ffffff" />
-</p>
-
----
-
-## 🧩 **Developer Insights & Productivity**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakkarot23&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakkarot23&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakkarot23&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-## 🐍 **Python Mastery Timeline**
+# 📊 **Skill Distribution (Graph Visualization)**
 
 ```mermaid
+pie title Skill Focus (Approx)
+    "Python & Engineering" : 30
+    "Machine Learning / Deep Learning" : 20
+    "Generative AI / LLMs" : 12
+    "Computer Vision" : 10
+    "NLP" : 8
+    "Data Engineering / ETL" : 6
+    "Business Intelligence" : 7
+    "Full Stack / Mobile / DevOps" : 7
 timeline
     title Python Skill Evolution
-    2018 : Started Python Basics & Scripting
-    2019 : Learned OOP, Flask, and Django
-    2020 : Entered Data Science (Pandas, NumPy, Matplotlib)
-    2021 : Explored Machine Learning (Scikit-learn, TensorFlow)
+    2018 : Python Basics & Scripting
+    2019 : OOP, Flask & Django
+    2020 : Data Science (Pandas, NumPy, Matplotlib)
+    2021 : Machine Learning (Scikit-learn, TensorFlow)
     2022 : Computer Vision (OpenCV, YOLO, MediaPipe)
-    2023 : NLP, Generative AI, Transformers
-    2024 : Deployed Full-Stack AI Systems & Flutter Integration
-    2025 : Leading SHA TECH in AI-driven Smart Education
+    2023 : NLP, Transformers, Generative AI
+    2024 : Full-Stack AI Systems, Cloud, Flutter Integration
+    2025 : Leading SHA TECH with AI Smart Education Ecosystem
