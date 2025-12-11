@@ -59,29 +59,3 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 
 ---
 
-# 📊 **Skill Distribution (Graph Visualization)**
-
-## **Skill Focus Pie Chart**
-```mermaid
-pie title Skill Focus (Approx)
-    "Python & Engineering" : 30
-    "Machine Learning / Deep Learning" : 20
-    "Generative AI / LLMs" : 12
-    "Computer Vision" : 10
-    "NLP" : 8
-    "Data Engineering / ETL" : 6
-    "Business Intelligence" : 7
-    "Full Stack / Mobile / DevOps" : 7
-
-
-
-timeline
-    title Python Skill Evolution
-    2018 : Python Basics & Scripting
-    2019 : OOP, Flask & Django
-    2020 : Data Science (Pandas, NumPy, Matplotlib)
-    2021 : Machine Learning (Scikit-learn, TensorFlow)
-    2022 : Computer Vision (OpenCV, YOLO, MediaPipe)
-    2023 : NLP, Transformers, Generative AI
-    2024 : Full-Stack AI Systems, Cloud, Flutter Integration
-    2025 : Leading SHA TECH with AI Smart Education Ecosystem
