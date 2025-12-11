@@ -7,7 +7,7 @@ AI • ML • DL • NN • GenAI • Data Science • Data Analytics • BI •
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Engineer-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Founder-SHA%20TECH-blue?style=for-the-badge" />
+  <img src="https://shatech-thelearninghub.blogspot.com/2025/12/machine-learning.html" />
   <img src="https://img.shields.io/badge/Tech-ML%20%7C%20DL%20%7C%20GenAI-green?style=for-the-badge" />
 </p>
 
