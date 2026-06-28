@@ -94,6 +94,50 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 
 
 ---
+
+---
+
+# 📐 Advanced Mathematics & Statistics for AI, Machine Learning & Deep Learning
+
+<div align="center">
+
+### Mathematics • Statistics • Optimization • Probability • AI Foundations
+
+<img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,vscode,git,github&perline=6"/>
+
+</div>
+
+| Category | Skills |
+|----------|---------|
+| 📏 Linear Algebra | Scalars · Vectors · Matrices · Tensors · Matrix Operations · Matrix Multiplication · Matrix Factorization · Rank · Determinant · Inverse Matrix · Eigenvalues · Eigenvectors · Singular Value Decomposition (SVD) · Orthogonality · Projection |
+| 📈 Calculus | Differential Calculus · Integral Calculus · Multivariable Calculus · Partial Derivatives · Chain Rule · Jacobian Matrix · Hessian Matrix · Taylor Series · Gradient · Divergence · Laplacian · Vector Calculus |
+| ⚡ Optimization | Convex Optimization · Non-Convex Optimization · Gradient Descent · Stochastic Gradient Descent (SGD) · Mini-Batch Gradient Descent · Adam · AdamW · RMSProp · Momentum · Nesterov Optimization · L-BFGS · Learning Rate Scheduling |
+| 🎲 Probability Theory | Conditional Probability · Bayes' Theorem · Random Variables · Probability Distributions · Joint & Marginal Probability · Independence · Markov Chains · Bayesian Networks · Likelihood Functions · Prior & Posterior Probability |
+| 📊 Statistical Analysis | Descriptive Statistics · Inferential Statistics · Sampling Theory · Estimation · Confidence Intervals · Hypothesis Testing · Statistical Significance · P-values · Effect Size · Statistical Power |
+| 📉 Probability Distributions | Normal · Gaussian · Bernoulli · Binomial · Poisson · Uniform · Exponential · Gamma · Beta · Chi-Square · Student's t · Weibull · Multinomial |
+| 📋 Regression Analysis | Linear Regression · Multiple Regression · Polynomial Regression · Logistic Regression · Regularized Regression · Ridge · Lasso · Elastic Net · GLM |
+| 🔬 Statistical Learning | Bias-Variance Tradeoff · Cross Validation · Bootstrap · Resampling · Model Selection · Regularization · Feature Selection · Ensemble Statistics |
+| 📐 Information Theory | Entropy · Cross Entropy · KL Divergence · Jensen-Shannon Divergence · Mutual Information · Information Gain · Maximum Likelihood Estimation (MLE) · Maximum A Posteriori (MAP) |
+| 📊 Bayesian Statistics | Bayesian Inference · Bayesian Optimization · Bayesian Networks · MCMC · Gibbs Sampling · Variational Inference · Probabilistic Graphical Models |
+| 🎯 Loss Functions | Mean Squared Error (MSE) · Mean Absolute Error (MAE) · Huber Loss · Cross Entropy Loss · Binary Cross Entropy · Categorical Cross Entropy · Focal Loss · Hinge Loss · Dice Loss · IoU Loss |
+| 🧠 Neural Network Mathematics | Forward Propagation · Backpropagation · Computational Graphs · Activation Functions · Weight Initialization · Gradient Flow · Vanishing & Exploding Gradients · Batch Normalization |
+| 🔄 Numerical Methods | Numerical Optimization · Matrix Decomposition · Numerical Differentiation · Numerical Integration · Root Finding · Finite Difference Methods · Stability Analysis |
+| 📈 Time Series Mathematics | Stationarity · Autocorrelation · Partial Autocorrelation · AR · MA · ARIMA · SARIMA · Fourier Transform · Spectral Analysis · Wavelets |
+| 📊 Experimental Design | A/B Testing · Randomized Experiments · Factorial Design · ANOVA · ANCOVA · Causal Inference · Power Analysis |
+| 📉 Dimensionality Reduction | PCA · Kernel PCA · LDA · ICA · t-SNE · UMAP · Random Projection · Matrix Embedding |
+| 📚 Graph Mathematics | Graph Theory · Adjacency Matrix · Laplacian Matrix · Network Analysis · Graph Embeddings · Graph Neural Networks (GNNs) Foundations |
+| 🌐 Advanced AI Mathematics | Tensor Algebra · Differential Geometry · Manifold Learning · Optimal Transport · Reinforcement Learning Mathematics · Bellman Equations · Markov Decision Processes (MDPs) |
+| 📦 Mathematical Programming | Linear Programming · Integer Programming · Quadratic Programming · Dynamic Programming · Constraint Optimization |
+| 💼 Applications | Machine Learning Algorithms · Deep Learning · Computer Vision · NLP · Reinforcement Learning · Generative AI · Robotics · Recommendation Systems · Financial AI · Healthcare AI |
+
+<div align="center">
+
+### 🚀 AI Mathematics & Statistics Ecosystem
+
+`Linear Algebra` • `Calculus` • `Probability` • `Statistics` • `Optimization` • `Bayesian Inference` • `Information Theory` • `Numerical Methods` • `Regression` • `Hypothesis Testing` • `Time Series` • `Graph Theory` • `Tensor Algebra` • `Markov Models` • `Convex Optimization` • `Loss Functions` • `Gradient Descent` • `PCA` • `SVD` • `Fourier Transform` • `Experimental Design` • `Mathematical Programming`
+
+</div>
+
 ---
 
 # 🧠 Machine Learning Skills
