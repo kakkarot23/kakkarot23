@@ -50,6 +50,49 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 </p>
 
 ---
+
+---
+
+# 🤖 Artificial Intelligence Skills
+
+<div align="center">
+
+### Artificial Intelligence • Machine Learning • Generative AI
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,jupyter,vscode,git,github&perline=8"/>
+
+</div>
+
+| Category | Skills |
+|----------|---------|
+| 🧠 Artificial Intelligence | Intelligent Systems · Expert Systems · AI Applications · AI Agents · Agentic AI · Autonomous Systems |
+| 🤖 Machine Learning | Supervised Learning · Unsupervised Learning · Reinforcement Learning · Transfer Learning · AutoML |
+| 🧬 Deep Learning | Artificial Neural Networks (ANN) · CNN · RNN · LSTM · GRU · Transformers · Autoencoders · GANs |
+| 💬 Generative AI | Large Language Models (LLMs) · GPT · Gemini · Claude · Llama · Mistral · DeepSeek · Qwen |
+| 🏗 AI Frameworks | TensorFlow · PyTorch · Keras · Scikit-learn · XGBoost · LightGBM · CatBoost |
+| 🔗 LLM Frameworks | LangChain · LangGraph · LlamaIndex · CrewAI · AutoGen · DSPy · Haystack |
+| 📚 Prompt Engineering | Zero-shot · One-shot · Few-shot · Chain-of-Thought · ReAct · Prompt Chaining |
+| 🗂 Retrieval Systems | RAG · Hybrid Search · Semantic Search · Knowledge Graphs · Document Intelligence |
+| 🗃 Vector Databases | Pinecone · ChromaDB · FAISS · Weaviate · Milvus · Qdrant |
+| 👁 Computer Vision | OpenCV · YOLO · MediaPipe · Detectron2 · OCR · Face Recognition · Object Detection · Image Segmentation |
+| 💬 NLP | Hugging Face Transformers · SpaCy · NLTK · Sentence Transformers · Token Classification · Text Summarization |
+| 🎙 Speech AI | Speech-to-Text · Text-to-Speech · Voice Assistants · Speaker Recognition · Audio Processing |
+| 📊 Data Science | Pandas · NumPy · SciPy · Statsmodels · Matplotlib · Plotly · Data Visualization |
+| 📈 MLOps | MLflow · Weights & Biases · DVC · Model Versioning · Experiment Tracking · Model Monitoring |
+| ☁ AI Deployment | FastAPI · Flask · Docker · Kubernetes · AWS SageMaker · Azure AI · Google Vertex AI |
+| 🔄 AI Automation | Workflow Automation · AI Pipelines · Intelligent Automation · Function Calling · Tool Calling |
+| 🔒 Responsible AI | Explainable AI (XAI) · Model Evaluation · Bias Detection · AI Ethics · Responsible AI |
+| 🚀 AI Applications | Chatbots · Virtual Assistants · Recommendation Systems · Predictive Analytics · Fraud Detection · Healthcare AI · Smart Education · Enterprise AI |
+
+<div align="center">
+
+### 🚀 AI Ecosystem
+
+`Python` • `TensorFlow` • `PyTorch` • `Scikit-learn` • `Keras` • `LangChain` • `LangGraph` • `LlamaIndex` • `CrewAI` • `AutoGen` • `OpenAI` • `Gemini` • `Claude` • `Llama` • `DeepSeek` • `Hugging Face` • `RAG` • `MCP` • `Vector Databases` • `AI Agents` • `Computer Vision` • `NLP` • `Speech AI` • `MLOps`
+
+</div>
+
+
 ---
 
 # 📱 Flutter Development Skills
