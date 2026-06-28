@@ -50,6 +50,49 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 </p>
 
 ---
+---
+
+# 📱 Flutter Development Skills
+
+<div align="center">
+
+### Cross-Platform Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github&perline=7"/>
+
+</div>
+
+| Category | Skills |
+|----------|---------|
+| 📱 Flutter Framework | Widgets · Material Design · Cupertino · Adaptive UI · Responsive Design |
+| 🎯 State Management | Provider · Riverpod · Bloc · Cubit · GetX · ValueNotifier |
+| 🎨 UI/UX | Material 3 · Custom Widgets · Animations · Hero Animations · Dark Mode · Glassmorphism |
+| 🔥 Backend Integration | Firebase · Firestore · Realtime Database · Authentication · Cloud Functions |
+| 🌐 API Integration | REST APIs · GraphQL · Dio · HTTP · JSON Serialization |
+| 💾 Local Storage | SQLite · Hive · Shared Preferences · Isar |
+| 📍 Device Features | GPS · Camera · QR Scanner · NFC · Bluetooth · Sensors |
+| 🔔 Notifications | Firebase Cloud Messaging (FCM) · Local Notifications · Push Notifications |
+| 📂 File Handling | PDF Generation · Image Picker · File Upload/Download · Document Viewer |
+| 📡 Real-Time Features | WebSockets · Firebase Sync · Live Chat · Live Tracking |
+| 🧠 AI Integration | OpenAI APIs · Gemini APIs · LLM Integration · Chatbots · OCR · Speech-to-Text · Text-to-Speech |
+| 📊 Visualization | Syncfusion Charts · FL Chart · Data Tables · Dashboards |
+| 🗺 Maps | Google Maps · OpenStreetMap · Geofencing · Route Tracking |
+| 🔒 Security | JWT · OAuth · Firebase Auth · Biometric Authentication · Secure Storage |
+| ⚡ Performance | Lazy Loading · Infinite Scroll · Code Splitting · Performance Optimization |
+| 🧪 Testing | Unit Testing · Widget Testing · Integration Testing |
+| 🚀 Deployment | Android APK · Android App Bundle (AAB) · Play Store Publishing · CI/CD |
+| 🏗 Architecture | MVC · MVVM · Clean Architecture · Repository Pattern · SOLID Principles |
+| 📦 Packages | pub.dev Package Development · Plugin Integration · Platform Channels |
+
+<div align="center">
+
+### 🚀 Flutter Ecosystem
+
+`Flutter` • `Dart` • `Firebase` • `Material 3` • `Riverpod` • `Bloc` • `GetX` • `Provider` • `Hive` • `SQLite` • `REST API` • `GraphQL` • `Google Maps` • `FCM` • `WebSocket` • `AI APIs` • `OCR` • `Camera` • `QR Code` • `Biometric Authentication`
+
+</div>
+
+
 
 # 💡 **Career Path (Typing Animation)**
 
