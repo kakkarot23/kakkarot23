@@ -135,6 +135,48 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 </div>
 
 ---
+---
+
+# 🧠 Deep Learning Skills
+
+<div align="center">
+
+### Deep Learning • Neural Networks • Computer Vision • AI Models
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,vscode,git,github&perline=7"/>
+
+</div>
+
+| Category | Skills |
+|----------|---------|
+| 🧠 Deep Learning Fundamentals | Artificial Neural Networks (ANN) · Forward & Backpropagation · Gradient Descent · Activation Functions · Loss Functions · Weight Initialization |
+| 🔗 Neural Network Architectures | Feedforward Neural Networks (FNN) · Deep Neural Networks (DNN) · Residual Networks (ResNet) · DenseNet · EfficientNet · MobileNet |
+| 👁️ Computer Vision Models | Convolutional Neural Networks (CNN) · YOLO · Faster R-CNN · Mask R-CNN · SSD · U-Net · Vision Transformers (ViT) · Segment Anything Model (SAM) |
+| 💬 Sequence Models | Recurrent Neural Networks (RNN) · LSTM · GRU · Seq2Seq Models · Encoder-Decoder Architectures · Attention Mechanisms |
+| 🤖 Transformer Models | Transformers · BERT · RoBERTa · DistilBERT · GPT · T5 · LLaMA · Mistral · Qwen · DeepSeek |
+| 🎨 Generative Models | GANs · DCGAN · StyleGAN · Conditional GAN · Variational Autoencoders (VAE) · Diffusion Models · Stable Diffusion |
+| 📚 Natural Language Processing | Tokenization · Word Embeddings · Attention Mechanisms · Positional Encoding · Text Classification · Named Entity Recognition · Machine Translation · Text Summarization |
+| 🎥 Multimodal AI | Vision-Language Models (VLMs) · CLIP · BLIP · Image Captioning · Visual Question Answering (VQA) · Document AI |
+| 🎙️ Speech & Audio AI | Speech Recognition · Text-to-Speech (TTS) · Speech-to-Text (STT) · Speaker Recognition · Audio Classification · Voice Cloning |
+| 📊 Training & Optimization | Batch Normalization · Dropout · Regularization · Early Stopping · Learning Rate Scheduling · Mixed Precision Training |
+| ⚙️ Optimization Algorithms | SGD · Momentum · Adam · AdamW · RMSProp · Adagrad · Adadelta · Lion Optimizer |
+| 🏗️ Deep Learning Frameworks | TensorFlow · PyTorch · Keras · TensorFlow Lite · ONNX Runtime · Hugging Face Transformers |
+| 🚀 Model Deployment | TensorFlow Serving · TorchServe · ONNX · FastAPI · Flask · Docker · Kubernetes · NVIDIA Triton Inference Server |
+| 📈 Experiment Tracking | TensorBoard · MLflow · Weights & Biases (W&B) · Neptune.ai · DVC |
+| ☁️ Distributed Training | Multi-GPU Training · CUDA · cuDNN · Distributed Data Parallel (DDP) · Horovod · DeepSpeed · Accelerate |
+| 📱 Edge AI | TensorFlow Lite · ONNX Runtime Mobile · Core ML · OpenVINO · NVIDIA Jetson · Edge Deployment |
+| 🔬 Explainable AI | Grad-CAM · SHAP · LIME · Integrated Gradients · Attention Visualization · Explainable Deep Learning |
+| 💼 Applications | Image Classification · Object Detection · Image Segmentation · Face Recognition · OCR · Medical Imaging · Autonomous Vehicles · Recommendation Systems · Predictive Analytics · Smart Education |
+
+<div align="center">
+
+### 🚀 Deep Learning Ecosystem
+
+`TensorFlow` • `PyTorch` • `Keras` • `Hugging Face` • `Transformers` • `CNN` • `RNN` • `LSTM` • `GRU` • `BERT` • `GPT` • `Vision Transformer (ViT)` • `YOLO` • `U-Net` • `GANs` • `VAE` • `Stable Diffusion` • `CUDA` • `ONNX` • `TensorBoard` • `MLflow` • `Weights & Biases` • `DeepSpeed` • `TensorFlow Lite`
+
+</div>
+
+---
 
 # 📱 Flutter Development Skills
 
