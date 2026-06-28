@@ -94,6 +94,47 @@ Founder of **SHA TECH**, I create future-ready AI products for **Education, Ente
 
 
 ---
+---
+
+# 🧠 Machine Learning Skills
+
+<div align="center">
+
+### Machine Learning • Predictive Analytics • Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,vscode,git,github&perline=8"/>
+
+</div>
+
+| Category | Skills |
+|----------|---------|
+| 🤖 Machine Learning Fundamentals | Supervised Learning · Unsupervised Learning · Semi-Supervised Learning · Reinforcement Learning · Transfer Learning · Online Learning |
+| 📊 Data Preprocessing | Data Cleaning · Feature Engineering · Feature Selection · Feature Scaling · Data Transformation · Missing Value Handling · Outlier Detection · Data Augmentation |
+| 📈 Regression Algorithms | Linear Regression · Polynomial Regression · Ridge Regression · Lasso Regression · ElasticNet · Support Vector Regression (SVR) · Decision Tree Regression · Random Forest Regression |
+| 🎯 Classification Algorithms | Logistic Regression · K-Nearest Neighbors (KNN) · Naïve Bayes · Decision Trees · Random Forest · Support Vector Machine (SVM) · XGBoost · LightGBM · CatBoost |
+| 🔍 Clustering Algorithms | K-Means · Hierarchical Clustering · DBSCAN · Mean Shift · Gaussian Mixture Models (GMM) · Spectral Clustering |
+| 📉 Dimensionality Reduction | PCA · LDA · t-SNE · UMAP · Feature Extraction · Manifold Learning |
+| 🌳 Ensemble Learning | Bagging · Boosting · Stacking · Voting Classifiers · AdaBoost · Gradient Boosting · XGBoost · LightGBM · CatBoost |
+| 📊 Model Evaluation | Cross Validation · Confusion Matrix · Precision · Recall · F1-Score · ROC-AUC · PR Curve · Regression Metrics · Classification Reports |
+| ⚙️ Hyperparameter Optimization | Grid Search · Random Search · Bayesian Optimization · Optuna · Hyperopt · Automated Tuning |
+| 📈 Time Series Analysis | ARIMA · SARIMA · Prophet · LSTM Forecasting · Time Series Cross Validation · Forecasting Models |
+| 🔬 Model Interpretability | SHAP · LIME · Feature Importance · Partial Dependence Plots (PDP) · Explainable AI (XAI) |
+| 🏗 ML Frameworks | Scikit-learn · TensorFlow · PyTorch · XGBoost · LightGBM · CatBoost · H2O.ai · PyCaret |
+| 📊 Data Analysis | Pandas · NumPy · SciPy · Statsmodels · Matplotlib · Plotly · Seaborn |
+| 🤖 AutoML | PyCaret · Auto-sklearn · H2O AutoML · AutoGluon · TPOT |
+| 🚀 Model Deployment | FastAPI · Flask · Streamlit · Gradio · Docker · Kubernetes · REST APIs · ONNX |
+| ☁️ MLOps | MLflow · DVC · Weights & Biases · Kubeflow · Model Registry · Experiment Tracking · CI/CD for ML |
+| 💼 Real-World Applications | Recommendation Systems · Fraud Detection · Predictive Maintenance · Customer Segmentation · Churn Prediction · Sales Forecasting · Healthcare Analytics · Financial Modeling |
+
+<div align="center">
+
+### 🚀 Machine Learning Ecosystem
+
+`Python` • `Scikit-learn` • `TensorFlow` • `PyTorch` • `XGBoost` • `LightGBM` • `CatBoost` • `Pandas` • `NumPy` • `SciPy` • `Statsmodels` • `Matplotlib` • `Plotly` • `PyCaret` • `MLflow` • `Optuna` • `FastAPI` • `Docker` • `Kubeflow` • `MLOps`
+
+</div>
+
+---
 
 # 📱 Flutter Development Skills
 
